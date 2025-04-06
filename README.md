@@ -85,6 +85,3 @@ shl-recommender/
 - Integration with SHL's API
 - More detailed assessment information
 
-## License
-
-MIT License
